@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@strapi/provider-upload-cloudinary": "^4.10.7",
+    "axios": "^1.4.0"
+  }
+}
